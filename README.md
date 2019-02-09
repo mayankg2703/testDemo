@@ -1,2 +1,3 @@
 # testDemo
-demo
+Building GCC image
+
